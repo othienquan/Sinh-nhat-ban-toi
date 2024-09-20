@@ -1,0 +1,465 @@
+<!DOCTYPEhtml >
+< html  lang =" vi " >
+< đầu >
+    < meta  charset =" UTF-8 " >
+    < meta  http-equiv =" Tương thích X-UA " nội dung =" IE=edge " >
+    < meta  name =" viewport " content =" width=device-width, initial-scale=1.0 " >
+    <link link rel="stylesheet" href="style.css">
+    <!-- <link rel="biểu tượng trang web" type="png" href="image/heart.png"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" tính toàn vẹn="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf /nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="ẩn danh" referencererpolicy="không có người giới thiệu" />
+    <title> Chúc mừng sinh nhật TP nha </title
+</đầu>
+<thân>
+    <div class="thùng chứa">
+        < div  lớp =" hộp đựng " >
+            < div  class =" hình ảnh " >
+                < img  src =" flag.png " alt ="" >
+            </div>
+            < div  class =" text-happybirthday " >
+                < img  src =" texthappy.png " alt ="" >
+            </div>
+            < div  lớp =" bánh " >
+                < img  src =" bánh.png " alt ="" >
+            </div>
+            < div  class =" hộp-bóng " >
+                < div  lớp =" mục bóng bay1 " >
+                    < img  src =" bong bóng.png " alt ="" >
+                </div>
+                < div  lớp =" mục bóng bay1 " >
+                    < img  src =" bong bóng.png " alt ="" >
+                </div>
+            </div>
+            < div  class =" box-cloud " >
+                < div  lớp =" đám mây " >
+                    < img  src =" đám mây.png " alt ="" >
+                </div>
+                < div  lớp =" đám mây " >
+                    < img  src =" đám mây.png " alt ="" >
+                </div>
+            </div>
+            < div  class =" hộp-ho-hỏa " >
+                < div  class =" pháo hoa " >
+                    < img  src =" pháo hoa.png " alt ="" >
+                    < img  src =" firework1.png " alt ="" id =" firework1 " >
+                </div>
+                < div  class =" pháo hoa " >
+                    < img  src =" pháo hoa.png " alt ="" >
+                    < img  src =" firework1.png " alt ="" id =" firework1 " >
+                </div>
+            </div>
+            < div  class =" paperCannons " >
+                < img  src =" paperCannons1.png " alt =" " >
+            </div>
+            < div  class =" hộp-hộp-quà-tặng " >
+                < img  src =" hộp quà tặng.png " alt ="" >
+                < img  src =" hộp quà tặng.png " alt ="" >
+                < img  src =" hộp quà tặng.png " alt ="" >
+                < img  src =" hộp quà tặng.png " alt ="" >
+                < img  src =" hộp quà tặng.png " alt ="" >
+                < img  src =" hộp quà tặng.png " alt ="" >
+            </div>
+            < div  lớp =" thư " >
+                < i  class =" fa-regular fa-envelope " > </ i >
+            </div>​​
+            < div  class =" boxcute " >
+                <div class="dễ thương1">
+                    <img src=" cute .png" alt=""> <!-- thay ảnh -->
+                    <img src=" cute1 .png" alt=""> <!-- thay ảnh -->
+                </div>
+                <div class="dễ thương2">
+                    <img src="dễ thương.png" alt="">
+                </div>
+            </div>
+        </div>
+        < div  lớp =" boxMail " >
+            < i  class =" fa-solid fa-xmark " > </ i >
+            < div  lớp =" boxMail-container " >
+                <div class="thẻ1">
+                    < div  lớp =" userImg " >
+                        <img src=" 400230076_645743174301434_3809045113991056458_n .jpg" alt="">
+                        <img src=" Treo .jpg" alt="">
+                    </div>
+                    <h3>Chúc mừng sinh nhật</h3>
+                    <div class="imageDễ thương">
+                        < img  src =" cute1.png " alt ="" >
+                    </div>
+                </div>
+                <div class="thẻ2">
+                    <div class="nội dung-thẻ2">
+                        <h3>Hướng tới Dũng</h3>
+                        <h2>Chúc sinh nhật Dũng thật vui vẽ nha,ăn mong lớn chưa...</h2>
+                        <h2>Tuy nhiên hơi thở.</h2>
+                        <h2>Tên</h2>
+                        < h2 > Nguyễn Nam Tiến </ h2 > 
+                        <h3> Hướng tới Hằng</h3>
+                        < h2 > Chúc Hằng tuổi mới luôn vui vẻ hạnh phúc. </ h2 >
+                        <h2>Hi vọng những thứ như cạnh bàn sẽ ko làm Hằng bị bóng.</h2>
+                        <h2>Dạ dày thì phiền hơn ko trở nên nặng hơn.</h2>
+                        <h2>Khi vô tình nhớ lại chuyện cũ làm Hằng buồn nếu ko có ai để nói chuyện cứ gọi cho T, T có thể ko
+                            giúp được gì nhưng có thể ở bên lắng nghe hoặc đi dạo.</h2>
+                        <h2>Và cuối cùng, một lần này Tặng hoa cho bông hoa xinh nhất nhé !</h2>
+                        < h2 > < a  href =" https://narthai141.github.io/HappyBirthdaytoHangdangiu/ " > Chạm vào đây </ a >  </ h2 >
+                        < div  lớp =" imageCute2 " >
+                            < img  src =" cute2.png " alt ="" >
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="âm thanh">
+        <tự động phát hiện âm thanh điều khiển>
+            < nguồn src="sinhnhatcuaxinhnhat.mp3" loại="audio/mpeg">
+            Trình duyệt của bạn không hỗ trợ thẻ âm thanh.
+        </âm thanh>
+    </div>
+</thân>
+    <chữ viết>
+
+        document.addEventListener('mousemove', hàm(e){
+            hãy để body = document.querySelector('body');
+            hãy để heart = document.createElement('span');
+            cho  x  =  e . offsetX ;
+            cho  y  =  e . offsetY ;
+            left time . type . trái  =  x + 'px' ;
+            left time . kiểu . đỉnh  =  y + 'px' ;
+            use  size  =  Math . ngẫu nhiên ( )  *  10 ;
+            left time . type . chiều rộng  =  4  *  kích thước + 'px' ;
+            left time . kiểu . chiều cao  =  4  *  kích thước + 'px' ;
+             hãy biến đổiValue  =  Math.random ( ) * 360 ;  
+            left time . phong cách . biến đổi  =  'xoay(' +  TransformValue  + 'độ)' ;
+            hơn . chắp thêmChild ( trái tim ) ;
+            setTimeout ( hàm ( ) {
+                trái tim . xóa ( ) ;
+            } , 1000 )
+        } )
+        hãy để  mailBox  =  document .querySelector ( '.mail ' )
+        hãy để  boxmail  =  document .querySelector ( '.boxMail ' )
+        var  close  =  document . querySelector ( '.fa-xmark' )
+        mailBox .onclick = hàm ( ) {  
+            mailBox .classList .tắt ( ' hoạt động' )
+            boxmail .classList .add ( ' hoạt động' )
+        }
+        đóng .addEventListener ( 'click ' , hàm ( ) { 
+            boxmail .classList .remove ( ' hoạt động ' )
+        } )
+        </ tập lệnh >
+</html>
+          @@ -413,7 +413,7 @@ thân thể{
+}
+. container . cloud : first-child :: trước {
+    vị trí: tuyệt đối;
+    nội dung: ' Ngoan nghe chưa ';
+    nội dung: ' Luôn cười nhé ';
+    căn chỉnh văn bản: ở giữa;
+    font-family: 'Roboto', không có chân;
+    font chữ đậm: 600;
+@@ -425,7 +425,7 @@ thân thể{
+
+. container . cloud : last-child :: trước {
+    vị trí: tuyệt đối;
+    nội dung: 'Sinh nhật Dũng nè!!!';
+    nội dung: 'Sinh nhật Hằng nè!!!';
+    font-family: 'Roboto', không có chân;
+    font chữ đậm: 600;
+    cỡ chữ: 10px;
+@@ -545,10 +545,16 @@ khoảng{
+    chiều rộng: 350px;
+    chuyển tiếp: tất cả đều là 1;
+    hoạt hình: paperCannons 2 giây về phía trước;
+    up image speed: 7 sec ;
+    up image speed: 5 giây ;
+    độ mờ đục: 0;
+    khả năng hiển thị: ẩn;
+}
+.âm thanh {
+    vị trí: tuyệt đối;
+    dưới cùng: 0px;
+    hiển thị: trung tâm;
+    chỉ số z: 100000;
+}
+@keyframes giấyCannons{
+    0%
+        độ mờ đục: 1;
+        khả năng hiển thị : có thể nhìn thấy;
+        biến đổi :  tỷ lệ ( 0 );
+    }
+    100 % {
+        độ mờ đục :  1 ;
+        khả năng hiển thị : có thể nhìn thấy;
+        biến đổi :  tỷ lệ ( 1 );
+    }
+}
+. thùng chứa . hộp quà tặng {
+    vị trí : tuyệt đối;
+    chiều rộng :  100 % ;
+    chiều cao :  100 % ;
+}
+. container . box-giftbox  >  img : con thứ n ( 1 ){
+    chiều rộng :  50 px ;
+    lề trên cùng :  360 px ;
+    lề trái :  120 px ;
+    biến đổi :  xoay ( -10 độ );
+    hoạt hình : giftbox2 0,5 giây tuyến tính vô hạn;
+    up ảnh tốc độ :  8,5 giây ;
+    độ mờ đục :  0 ;
+    khả năng hiển thị : ẩn;
+    chuyển tiếp : tất cả 2 giây ;
+}
+. container . box-giftbox  >  img : con thứ n ( 2 ){
+    vị trí : tuyệt đối;
+    chiều rộng :  30 px ;
+    lề trên cùng :  250 px ;
+    lề trái :  -150 px ;
+    biến đổi :  xoay ( 15 độ );
+    bộ lọc :  làm mờ ( 1 px );
+    độ mờ đục :  0 ;
+    khả năng hiển thị : ẩn;
+    hoạt hình : giftbox1 4 giây về phía trước;
+    up image speed :  8 giây ;
+}
+. container . box-giftbox  >  img : con thứ n ( 3 ){
+    vị trí : tuyệt đối;
+    chiều rộng :  25 px ;
+    lề trên cùng :  200 px ;
+    lề trái :  450 px ;
+    biến đổi :  xoay ( 15 độ );
+    bộ lọc :  làm mờ ( 2 px );
+    độ mờ đục :  0 ;
+    khả năng hiển thị : ẩn;
+    hoạt hình : giftbox1 4 giây về phía trước;
+    up image speed :  8 giây ;
+}
+. container . box-giftbox  >  img : con thứ n ( 4 ){
+    vị trí : tuyệt đối;
+    chiều rộng :  55 px ;
+    lề trên cùng :  380 px ;
+    lề trái :  340 px ;
+    biến đổi :  xoay ( 15 độ );
+    hoạt hình : giftbox2 0,5 giây tuyến tính vô hạn;
+    up ảnh tốc độ :  8,5 giây ;
+    độ mờ đục :  0 ;
+    khả năng hiển thị : ẩn;
+    chuyển tiếp : tất cả 2 giây ;
+}
+@keyframes hộp quà tặng1{
+    0 % {
+        độ mờ đục :  0 ;
+        khả năng hiển thị : ẩn;
+    }
+    100 % {
+        độ mờ đục :  1 ;
+        khả năng hiển thị : có thể nhìn thấy;
+    }
+}
+@keyframes hộp quà tặng2{
+    0 % {
+        khả năng hiển thị : có thể nhìn thấy;
+        độ mờ đục :  1 ;
+        biến đổi :  xoay ( -10 độ );
+    }
+    25 % {
+        độ mờ đục :  1 ;
+        khả năng hiển thị : có thể nhìn thấy;
+        biến đổi :  xoay ( 0 ) ;
+    }
+    50 % {
+        khả năng hiển thị : có thể nhìn thấy;
+        độ mờ đục :  1 ;
+        biến đổi :  xoay ( 10 độ );
+    }
+    75 % {
+        độ mờ đục :  1 ;
+        khả năng hiển thị : có thể nhìn thấy;
+        biến đổi :  xoay ( 0 ) ;
+    }
+    100 % {
+        độ mờ đục :  1 ;
+        khả năng hiển thị : có thể nhìn thấy;
+        biến đổi :  xoay ( -10 độ );
+    }
+}
+. container . box-giftbox  >  img : con thứ n ( 5 ){
+    vị trí : tuyệt đối;
+    chiều rộng :  30 px ;
+    dưới cùng :  0 ;
+    biến đổi :  chuyển đổi ( -90 px ,  50 px );
+    hoạt hình : giftbox3 2 giây tuyến tính vô hạn;
+    up image speed :  10 giây ;
+    bộ lọc :  bóng đổ ( 0  0  15 px đỏ);
+    chuyển tiếp : tất cả 1 giây ;
+}
+. container . box-giftbox  >  img : con thứ n ( 6 ){
+    vị trí : tuyệt đối;
+    chiều rộng :  30 px ;
+    dưới cùng :  0 ;
+    đúng :  0 ;
+    biến đổi :  chuyển đổi ( -60 px ,  50 px );
+    hoạt hình : giftbox4 2 giây tuyến tính vô hạn;
+    up image speed :  11 giây ;
+    bộ lọc :  bóng đổ ( 0  0  15 px đỏ);
+    chuyển tiếp : tất cả 1 giây ;
+}
+@keyframes quà tặng 3{
+    0 % {
+        biến đổi :  chuyển dịch ( -100 px ,  35 px );
+    }
+    2 % {
+        biến đổi :  chuyển dịch ( -80 px ,  5 px ) xoay ( 10 độ );
+    }
+    4 % {
+        biến đổi :  chuyển dịch ( -70 px ,  -25 px ) xoay ( 20 độ );
+    }
+    6 % {
+        biến đổi :  chuyển đổi ( -55 px ,  -50 px ) xoay ( 30 độ );
+    }
+    8 % {
+        biến đổi :  chuyển đổi ( -50 px ,  -60 px ) xoay ( 40 độ );
+    }
+    10 % {
+        biến đổi :  chuyển đổi ( -45 px ,  -70 px ) xoay ( 50 độ );
+    }
+    12 % {
+        biến đổi :  chuyển dịch ( -40 px ,  -80 px ) xoay ( 60 độ );
+    }
+    14 % {
+        biến đổi :  chuyển đổi ( -35 px ,  -90 px ) xoay ( 70 độ );
+    }
+    16 % {
+        biến đổi :  chuyển dịch ( -30 px ,  -100 px ) xoay ( 80 độ );
+    }
+    18 % {
+        biến đổi :  chuyển đổi ( -25 px ,  -110 px ) xoay ( 90 độ );
+    }
+    20 % {
+        biến đổi :  chuyển dịch ( -20 px ,  -115 px ) xoay ( 100 độ );
+    }
+    22 % {
+        biến đổi :  chuyển đổi ( -15 px ,  -120 px ) xoay ( 110 độ ) tỷ lệ chia ( 1.1 );
+    }
+    26 % {
+        biến đổi :  chuyển đổi ( -10 px ,  -125 px ) xoay ( 120 độ ) tỷ lệ chia ( 1.1 );
+    }
+    30 % {
+        biến đổi :  chuyển đổi ( -5 px ,  -130 px ) xoay ( 130 độ ) tỷ lệ chia ( 1.2 );
+    }
+    40 % {
+        biến đổi :  chuyển đổi ( 0 px ,  -135 px ) xoay ( 140 độ ) tỷ lệ chia ( 1.2 );
+    }
+    50 % {
+        biến đổi :  chuyển đổi ( 5 px ,  -140 px ) xoay ( 150 độ ) tỷ lệ chia ( 1.2 );
+    }
+    60 % {
+        biến đổi :  chuyển đổi ( 10 px ,  -145 px ) xoay ( 160 độ ) tỷ lệ chia ( 1.3 );
+    }
+    70 % {
+        biến đổi :  chuyển đổi ( 20 px ,  -150 px ) xoay ( 170 độ ) tỷ lệ chia ( 1.3 );
+    }
+    75 % {
+        biến đổi :  chuyển đổi ( 30 px ,  -150 px ) xoay ( 180 độ ) tỷ lệ chia ( 1.3 );
+    }
+    80 % {
+        biến đổi :  chuyển đổi ( 40 px ,  -150 px ) xoay ( 185 độ ) tỷ lệ chia ( 1.2 );
+    }
+    82 %
+        biến đổi :  chuyển đổi ( 50 px ,  -145 px ) xoay ( 190 độ ) tỷ lệ chia ( 1.1 );
+    }
+    84 % {
+        biến đổi :  chuyển đổi ( 55 px ,  -140 px ) xoay ( 200 độ ) tỷ lệ chia ( 1.1 );
+    }
+    86 %
+        biến đổi :  chuyển đổi ( 60 px ,  -135 px ) xoay ( 210 độ ) tỷ lệ chia ( 1.1 );
+    }
+    88 % {
+        biến đổi :  chuyển đổi ( 65 px ,  -130 px ) xoay ( 220 độ ) tỷ lệ chia ( 0,9 );
+    }
+    90 % {
+        biến đổi :  chuyển đổi ( 70 px ,  -110 px ) xoay ( 230 độ ) tỷ lệ chia ( 0,9 );
+    }
+    92 % {
+        biến đổi :  chuyển đổi ( 80 px ,  -80 px ) xoay ( 240 độ ) tỷ lệ chia ( 0,8 );
+    }
+    94 % {
+        biến đổi :  chuyển đổi ( 90 px ,  -55 px ) xoay ( 250 độ ) tỷ lệ chia ( 0,8 );
+    }
+    96 % {
+        biến đổi :  chuyển đổi ( 100 px ,  -20 px ) xoay ( 185 độ ) tỷ lệ chia ( 0,7 );
+    }
+    98 % {
+        biến đổi :  chuyển đổi ( 110 px ,  5 px ) xoay ( 195 độ ) tỷ lệ chia ( 0,6 );
+    }
+    100 % {
+        biến đổi :  chuyển đổi ( 120 px ,  35 px ) xoay ( 205 độ ) tỷ lệ chia ( 0,5 );
+    }
+}
+@keyframes quà tặng4{
+    0 % {
+        biến đổi :  chuyển dịch ( 0 px ,  35 px );
+    }
+    2 % {
+        biến đổi :  chuyển dịch ( -20 px ,  5 px ) xoay ( 10 độ );
+    }
+    4 % {
+        biến đổi :  chuyển dịch ( -30 px ,  -25 px ) xoay ( 20 độ );
+    }
+    6 % {
+        biến đổi :  chuyển đổi ( -45 px ,  -50 px ) xoay ( 30 độ );
+    }
+    8 % {
+        biến đổi :  chuyển đổi ( -50 px ,  -60 px ) xoay ( 40 độ );
+    }
+    10 % {
+        biến đổi :  chuyển đổi ( -55 px ,  -70 px ) xoay ( 50 độ );
+    }
+    12 % {
+        biến đổi :  chuyển đổi ( -60 px ,  -80 px ) xoay ( 60 độ );
+    }
+    14 % {
+        biến đổi :  chuyển đổi ( -65 px ,  -90 px ) xoay ( 70 độ );
+    }
+    16 % {
+        biến đổi :  chuyển dịch ( -70 px ,  -100 px ) xoay ( 80 độ );
+    }
+    18 % {
+        biến đổi :  chuyển đổi ( -75 px ,  -110 px ) xoay ( 90 độ );
+    }
+    20 % {
+        biến đổi :  chuyển đổi ( -80 px ,  -115 px ) xoay ( 100 độ );
+    }
+    22 % {
+        biến đổi :  chuyển đổi ( -85 px ,  -120 px ) xoay ( 110 độ ) tỷ lệ chia ( 1.1 );
+    }
+    26 % {
+        biến đổi :  chuyển đổi ( -90 px ,  -125 px ) xoay ( 120 độ ) tỷ lệ chia ( 1.1 );
+    }
+    30 % {
+        biến đổi :  chuyển đổi ( -95 px ,  -130 px ) xoay ( 130 độ ) tỷ lệ chia ( 1.2 );
+    }
+    40 % {
+        biến đổi :  chuyển dịch ( -100 px ,  -135 px ) xoay ( 140 độ ) tỷ lệ chia ( 1.2 );
+    }
+    50 % {
+        biến đổi :  chuyển đổi ( -105 px ,  -140 px ) xoay ( 150 độ ) tỷ lệ chia ( 1.2 );
+    }
+    60 % {
+        biến đổi :  chuyển đổi ( -110 px ,  -145 px ) xoay ( 160 độ ) tỷ lệ chia ( 1.3 );
+    }
+    70 % {
+        biến đổi :  chuyển đổi ( -120 px ,  -150 px ) xoay ( 170 độ ) tỷ lệ chia ( 1.3 );
+    }
+    75 % {
+        biến đổi :  chuyển đổi ( -130 px ,  -150 px ) xoay ( 180 độ ) tỷ lệ chia ( 1.3 );
+    }
+    80 % {
+        biến đổi :  chuyển đổi ( -140 px ,  -150 px ) xoay ( 185 độ ) tỷ lệ chia ( 1.2 );
+    }
+    82 %
+        biến đổi :  chuyển đổi ( -150 px ,  -145 px ) xoay ( 190 độ ) tỷ lệ chia ( 1.1 );
+    }
+    84 % {
+        biến đổi :  chuyển đổi ( -155 px ,  -140 px ) xoay ( 200 độ ) tỷ lệ chia ( 1.1 );
+    }
+    86 %
+        biến đổi :  chuyển đổi ( -160 px ,  -135 px ) xoay ( 210 độ ) tỷ lệ chia ( 1.1 );
+    
+    
